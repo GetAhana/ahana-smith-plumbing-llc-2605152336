@@ -1,0 +1,18 @@
+{
+  "name": "Smith Plumbing",
+  "short_name": "Smith",
+  "description": "Smith Plumbing delivers honest, same-day plumbing repairs, water heater service, and drain cleaning in Phoenix, Scottsdale, Tempe, and Mesa—licensed, bonded, and insured.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
